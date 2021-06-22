@@ -1,0 +1,6 @@
+com\manuanand\taskpro\AccessingDataMysqlApplication.class
+com\manuanand\taskpro\TaskRepository.class
+com\manuanand\taskpro\UserRepository.class
+com\manuanand\taskpro\User.class
+com\manuanand\taskpro\Task.class
+com\manuanand\taskpro\MainController.class
